@@ -1,4 +1,4 @@
-1.- GPS para coches con una ruta con menor contaminación, para evitar contaminación extra y atascos.
+-------1.- GPS para coches con una ruta con menor contaminación, para evitar contaminación extra y atascos.
 
 2.- Hacer una estimación de la contaminación en un futuro y compararla con X (Madrid)
 
@@ -10,9 +10,23 @@
 
 6.- Tener una sección en la página web que incluya informes, vídeos y consejos para disminuir la contaminación.
 
-7.- La página web debe ser pública pero los usuarios se pueden registrar para introducir rutas, o consejos o comentarlas.
+7.- La página web debe ser pública pero los usuarios se pueden registrar para introducir rutas o consejos (también comentarlos).
 
 8.- Votación de los parques (calidad del mismo) y ranking de todos los parques de Zaragoza.
+
+9.- Sección rutas/consejos más leídos/mejor votados (también se puede hacer que se pueda ordenar por mejor votado).
+
+10.- Compartir posts a través de las redes sociales.
+
+11.- Que la página web tenga Facebook y Twitter. 
+
+12.- Dos sistemas anti-estupideces en los posts: un sistema de verificación con un admin o un sistema de reportes de los usuarios.
+
+13.- Usuarios normales, moderadores (los admins los eligen) y admins.
+
+14.- Sección "quedadas" para los usuarios (los usuarios pueden proponer quedadas, actividades, manifestaciones).
+
+
 
 Vídeo consejos para contaminar menos:
 https://youtu.be/166srYfSzCs
@@ -22,3 +36,11 @@ https://www.zaragoza.es/ciudad/medioambiente/atmosfera/redconta/red.htm
 
 Página que muestra la contaminación de ciudades en el mundo:
 http://waqi.info/
+
+
+
+Entidades de información a gestionar:
+
+-Parques (localización, votaciones de los usuarios) atributos: Nombre y foto (barrio/calle). Relacionado con los usuarios (votación y opinión).
+-Usuarios (datos, diferenciar información privada y pública).
+-Posts (Título, descripción y fotos). Relacionado con los usuarios.
